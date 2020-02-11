@@ -1,6 +1,6 @@
 public class Cathedra {
 
-    private int[] studentList;
+   Student[] student;
     private String name;
 
     public Cathedra(String name){
