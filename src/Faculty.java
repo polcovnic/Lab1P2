@@ -1,6 +1,7 @@
 public class Faculty {
 
-    Cathedra cathedra;
+    Cathedra[] cathedras;
+
     private String name;
 
 }
