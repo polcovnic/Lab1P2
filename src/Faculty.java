@@ -1,6 +1,6 @@
 public class Faculty {
 
-    private int [] studentList;
+    Cathedra cathedra;
     private String name;
 
 }
