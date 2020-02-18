@@ -2,41 +2,111 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a34925f6-dca2-48ce-a433-5ee969191f5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Cathedra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cathedra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1P2/Cathedra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1P2/Cathedra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1P2/Faculty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1P2/Faculty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1P2/Group.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1P2/Group.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1P2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1P2/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1P2/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1P2/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Standart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Standart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="216" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XhRdcUm5sRYp7umigIHtjsmMJd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA\Lab1P2\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab1P2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Standart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Standart" />
+      <module name="Lab1P2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Standart" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a34925f6-dca2-48ce-a433-5ee969191f5a" name="Default Changelist" comment="" />
+      <created>1581496430159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581496430159</updated>
+      <workItem from="1581496444129" duration="1239000" />
+      <workItem from="1582023003777" duration="4571000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -45,5 +115,63 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refresh" />
     <option name="LAST_COMMIT_MESSAGE" value="refresh" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="84" width="579" height="656" key="#Main" timestamp="1582027721393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="84" width="579" height="656" key="#Main/0.0.1536.824@0.0.1536.824" timestamp="1582027721393" />
+    <state x="361" y="72" key="#Project_Structure" timestamp="1582025860318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1582025860318" />
+    <state x="534" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582023049745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582023049745" />
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582023044262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1582023044262" />
+    <state x="473" y="128" key="FileChooserDialogImpl" timestamp="1582027624185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="128" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582027624185" />
+    <state width="724" height="210" key="GridCell.Tab.0.bottom" timestamp="1582027789533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582027789533" />
+    <state width="724" height="210" key="GridCell.Tab.0.center" timestamp="1582027789532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582027789532" />
+    <state width="724" height="210" key="GridCell.Tab.0.left" timestamp="1582027789531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582027789531" />
+    <state width="724" height="210" key="GridCell.Tab.0.right" timestamp="1582027789532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582027789532" />
+    <state x="481" y="129" key="MultipleFileMergeDialog" timestamp="1581427752470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1581427752470" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1582027206068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582027206068" />
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581427748974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1581427748974" />
+    <state x="209" y="34" key="new project wizard" timestamp="1581429969954">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581429969954" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab1P2$Main.ic" NAME="Main Coverage Results" MODIFIED="1582027544281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Lab1P2$Standart.ic" NAME="Standart Coverage Results" MODIFIED="1582027531152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
