@@ -1,5 +1,3 @@
-package DataInput;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -12,20 +10,9 @@ public final class DataInput {
 		else 
 			System.out.print(wr);
 	}
-	
-	public static Long getLong() throws IOException{
-		String s = getString("");
-		Long value = Long.valueOf(s);
-		return value;
-	}
-	
-	public static char getChar() throws IOException{
-		String s = getString("");
-		return s.charAt(0);
-	}
-	
+
 	public static Integer getInt(String wr){
-		writeText(wr);
+		writeText(wr + ' ');
 		String s = "";
 		Integer value = 0;
 		boolean input = true;
