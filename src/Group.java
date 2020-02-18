@@ -7,9 +7,12 @@ public class Group {
             creating(numberOfGroup);
         }
     }
+
     private int temp=1;
 
-
+void m(){
+    
+}
     private boolean checking(int numberOfGroup){
         for (int i = 0; i < groups.length; i++) {
             if(numberOfGroup==groups[i])return true;
